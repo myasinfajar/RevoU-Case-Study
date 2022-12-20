@@ -1,4 +1,4 @@
-<!-- Types and total of Basketball play events occur -->
+''' Types and total of Basketball play events occur '''
 
 SELECT
   event_type,
