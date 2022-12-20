@@ -22,3 +22,5 @@ ORDER BY
   DESC
 LIMIT
   5
+
+'3pt % / accuracy from home teams are on Frame 1, and 3pt % / accuracy from opponent teams are on Frame 2. The highest total 3pt was made from both home and opponent team from a single game is 40.'
