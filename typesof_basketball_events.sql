@@ -1,5 +1,8 @@
-''' Types and total of Basketball play events occur '''
+'
+Types and total of Basketball play events occur
+'
 
+# SQL
 SELECT
   event_type,
   COUNT(*)
