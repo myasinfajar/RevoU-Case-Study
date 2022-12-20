@@ -18,3 +18,5 @@ ORDER BY
   DESC
 LIMIT
   5
+
+'The highest game score was from the game between Terries (WOF) vs Bulldogs (SAM) with total 258 points was made in that game.'
