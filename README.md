@@ -1,4 +1,4 @@
-# RevoU Case Studies
+# RevoU Case Study Repository
 
 Welcome to my repository of RevoU Case Study.
 
