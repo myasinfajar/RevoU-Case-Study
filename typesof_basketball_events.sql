@@ -2,7 +2,7 @@
 Types and total of Basketball play events occur
 '
 
-# SQL
+'''sql
 SELECT
   event_type,
   COUNT(*)
@@ -12,3 +12,4 @@ GROUP BY
   1
 ORDER BY
   2 DESC
+'''
