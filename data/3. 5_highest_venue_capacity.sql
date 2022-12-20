@@ -14,3 +14,5 @@ ORDER BY
   DESC
 LIMIT
   5
+
+'The highest venue capacity is AT&T Stadium, Arlington with 80000 seats venue capacity.'
