@@ -9,3 +9,5 @@ GROUP BY
   1 
 ORDER BY
   2 DESC 
+
+'The highest total_events is rebound with 790490 events in it.'
