@@ -1,11 +1,11 @@
 # Types and total of Basketball play events occur
 
 SELECT
-  event_type, # take **event_type** values
-  COUNT(*) # count all the values
+  event_type,
+  COUNT(*) 
 FROM
   `bigquery-public-data.ncaa_basketball.mbb_pbp_sr`
 GROUP BY
-  1 # means event_type
+  1 
 ORDER BY
-  2 DESC # means count(*) ordered descending
+  2 DESC 
